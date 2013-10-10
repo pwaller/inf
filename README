@@ -1,0 +1,11 @@
+inf -- To Infinity and Beyond!
+------------------------------
+
+This is a silly little module to show that it is possible to make it so that you can import a module and totally control what the resulting module is.
+
+In this case, since python doesn't have inf as a builtin:
+
+..
+  import inf
+  # if is now float("+inf")
+
