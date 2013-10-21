@@ -3,7 +3,7 @@ from distutils.core import setup
 
 conf = dict(
     name='inf',
-    version='1.0.0',
+    version='1.1.0',
     description="Infinity",
     long_description="\n".join(list(open("README"))[2:]).strip(),
     classifiers=[
