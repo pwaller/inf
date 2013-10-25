@@ -4,6 +4,8 @@ import sys
 
 
 class Inf(float):
+    __name__ = __name__
+    __file__ = __file__
 
     @staticmethod
     def div(p, q):
